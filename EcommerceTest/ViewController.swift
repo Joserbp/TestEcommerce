@@ -26,7 +26,7 @@ class ViewController: UIViewController {
 
         textFieldEmail.setLeftPadding(value: 15)
         textFieldPassword.setLeftPadding(value: 15)
-        textFieldPassword.setRightPadding(value: 40)
+        textFieldPassword.setRightPadding(value: 45)
 
         loadData()
     }
