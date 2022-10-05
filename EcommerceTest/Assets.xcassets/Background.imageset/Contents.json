@@ -1,0 +1,35 @@
+{
+  "images" : [
+    {
+      "filename" : "get-ios-14s-new-wallpapers-any-iphone-android-phone.w1456.jpg",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "light"
+        }
+      ],
+      "filename" : "get-ios-14s-new-wallpapers-any-iphone-android-phone.w1456-1.jpg",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "get-ios-14s-new-wallpapers-any-iphone-android-phone-1.w1456.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "localizable" : true
+  }
+}
